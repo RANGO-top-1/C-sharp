@@ -1,0 +1,10 @@
+C:\Users\HONOR\source\repos\logistika\logistika\bin\Debug\logistika.exe.config
+C:\Users\HONOR\source\repos\logistika\logistika\bin\Debug\logistika.exe
+C:\Users\HONOR\source\repos\logistika\logistika\bin\Debug\logistika.pdb
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.csproj.AssemblyReference.cache
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.Form1.resources
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.Properties.Resources.resources
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.csproj.GenerateResource.cache
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.exe
+C:\Users\HONOR\source\repos\logistika\logistika\obj\Debug\logistika.pdb
